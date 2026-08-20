@@ -1,4 +1,4 @@
-# GreenGap — Habits Unlocked
+# GreenGap - Habits Unlocked
 
 ![GreenGap — Habits Unlocked](GreenGap%20\(cover\).png)
 
